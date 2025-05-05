@@ -1,7 +1,7 @@
 #For any cyber attack happening targeting IGSL Asia
 
 # Conducting Cyber Security assessments
-#
+
     1. Initial Scoping and Planning
     2. File Integrity and Backdoor Inspection
     3. Rootkit and Malware Detection
