@@ -1,4 +1,4 @@
-# cyber-attack-101
+# CYBER SECURITY INCIDENT REPORTING
 For any cyber attack happening targeting IGSL Asia
 
 Conducting Cyber Security assessments 
