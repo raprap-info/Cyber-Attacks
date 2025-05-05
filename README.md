@@ -1,2 +1,2 @@
-# Cyber-Attacks
-For keeping records of all Cyber Attacks
+# cyber-attack-101
+For any cyber attack happening targeting IGSL Asia
