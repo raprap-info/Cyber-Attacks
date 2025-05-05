@@ -142,3 +142,8 @@ Use server-side input validation and authentication.
 Disable CGI entirely unless needed.
 
 Monitor logs for suspicious activity.
+
+
+
+---
+
